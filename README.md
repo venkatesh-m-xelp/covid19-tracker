@@ -5,6 +5,8 @@ https://covid19tracker-a4811.web.app/
 ## Screenshots
 
 ![Optional Text](../master/src/images/1.png)
+![Optional Text](../master/src/images/2.png)
+![Optional Text](../master/src/images/3.png)
 
 ## Installation Process
 ```sh
