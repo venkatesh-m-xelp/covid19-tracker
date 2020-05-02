@@ -2,6 +2,9 @@
 
 https://covid19tracker-a4811.web.app/
 
+## Screenshots
+
+![Optional Text](../master/src/images/1.png)
 
 ## Installation Process
 ```sh
